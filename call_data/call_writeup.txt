@@ -1,0 +1,6 @@
+Call Record:
+
+1.Imported call_data.json file
+2.There we need to insert one data
+3.We need to write the command for romaning with the count of it
+4.We need the display the record of all the call_charges which are greater than 10. 

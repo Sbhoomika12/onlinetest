@@ -1,0 +1,4 @@
+Commands:
+1.Insert the single data: db.call_data.insert([{"source" : "+919612345670", "destination" : "+919612345671", "source_location": "Delhi", "destination_location": "Mumbai", "call_duration": 2.03, "roaming": "false", "call_charge":2.0}]);
+2.To display romaning count:db.call_data.find({"roaming":"true"}).count();
+3.To display call duration greater than 10
